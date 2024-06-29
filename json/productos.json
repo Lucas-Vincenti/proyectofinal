@@ -1,0 +1,290 @@
+[{
+    "id": 25,
+    "nombre": "Fuente ASUS ROG THOR 850W 80 Plus Platinum 850P Full modular",
+    "precio": 49800,
+    "stock": 1,
+    "img": "./img/fuentes/Fuente-ASUS-ROG-THOR-850W-80-Plus-Platinum-850P-Full-modular.webp",
+    "categoria": ["fuentes"]
+},
+{
+    "id": 20,
+    "nombre": "Gabinete ASUS ROG STRIX GX601 Helios Evangelion Edition ARGB",
+    "precio": 99000,
+    "stock": 1,
+    "img": "./img/gabinetes/Gabinete-ASUS-ROG-STRIX-GX601-Helios-Evangelion-Edition-ARGB.webp",
+    "categoria": ["gabinetes"]
+},
+{
+    "id": 14,
+    "nombre": "Mother Asrock B550 Phantom Gaming ITX/AX",
+    "precio": 50300,
+    "stock": 2,
+    "img": "./img/mothers/Mother-Asrock-B550-Phantom-Gaming-ITX.webp",
+    "categoria": ["mothers"]
+},
+{
+    "id": 27,
+    "nombre": "Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4",
+    "precio": 51200,
+    "stock": 3,
+    "img": "./img/procesadores-amd/Procesador-AMD-Ryzen-5-5600X 4.6GHz-Turbo-AM4.webp",
+    "categoria": ["procesadoresAmd"]
+},
+{
+    "id": 0,
+    "nombre": "Memoria GeiL DDR4 16GB 3000MHz Super Luce RGB Black",
+    "precio": 22700,
+    "stock": 3,
+    "img": "./img/memorias-ram/Memoria-GeiL-DDR4-16GB-3000MHz-Super-Luce-RGB-Black.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 6,
+    "nombre": "Placa De Video GeForce GTX 1650 4Gb Msi Ventus Xs Oc",
+    "precio": 60000,
+    "stock": 5,
+    "img": "./img/placas-de-video/Placa-De-Video-GeForce-GTX-1650-4Gb-Msi-Ventus-Xs-Oc.webp",
+    "categoria": ["placasDeVideo"]
+},
+{
+    "id": 1,
+    "nombre": "Memoria GeiL DDR4 16GB 3000MHz Orion RGB Red",
+    "precio": 19000,
+    "stock": 4,
+    "img": "./img/memorias-ram/Memoria-GeiL-DDR4-16GB-3000MHz-Orion-RGB-Red.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 24,
+    "nombre": "Fuente ASUS ROG STRIX 850W 80 Plus Gold Full Modular White 850G",
+    "precio": 32000,
+    "stock": 2,
+    "img": "./img/fuentes/Fuente-ASUS-ROG-STRIX-850W-80-Plus-Gold-Full-Modular-White-850G.webp",
+    "categoria": ["fuentes"]
+},
+{
+    "id": 34,
+    "nombre": "Procesador Intel Core i7 12700F 4.9GHz Turbo Socket 1700",
+    "precio": 81500,
+    "stock": 2,
+    "img": "./img/procesadores-intel/Procesador-Intel-Core-i7-12700F-4.9GHz-Turbo-Socket-1700.webp",
+    "categoria": ["procesadoresIntel"]
+},
+{
+    "id": 5,
+    "nombre": "Memoria Team DDR4 8GB 3600MHz T-Force Delta White CL18",
+    "precio": 14650,
+    "stock": 5,
+    "img": "./img/memorias-ram/Memoria-Team-DDR4-8GB-3600MHz-T-Force-Delta-White-CL18.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 17,
+    "nombre": "Gabinete Corsair Crystal 680X RGB TG Smart White",
+    "precio": 80450,
+    "stock": 3,
+    "img": "./img/gabinetes/Gabinete-Corsair-Crystal-680X-RGB-TG-Smart-White.webp",
+    "categoria": ["gabinetes"]
+},
+{
+    "id": 9,
+    "nombre": "Placa De Video GeForce RTX 3080 Ti 12Gb Msi Gaming X Trio",
+    "precio": 400000,
+    "stock": 2,
+    "img": "./img/placas-de-video/Placa-De-Video-GeForce-RTX-3080-Ti-12Gb-Msi-Gaming-X-Trio.webp",
+    "categoria": ["placasDeVideo"]
+},
+{
+    "id": 15,
+    "nombre": "Mother-ASUS-ROG-STRIX-B450-F-GAMING-II-AM4",
+    "precio": 41350,
+    "stock": 1,
+    "img": "./img/mothers/Mother-ASUS-ROG-STRIX-B450-F-GAMING-II-AM4.webp",
+    "categoria": ["mothers"]
+},
+{
+    "id": 33,
+    "nombre": "Procesador Intel Core i5 12600KF 4.90GHz Turbo Socket 1700",
+    "precio": 65490,
+    "stock": 4,
+    "img": "./img/procesadores-intel/Procesador-Intel-Core-i5-12600KF-4.90GHz-Turbo-Socket-1700.webp",
+    "categoria": ["procesadoresIntel"]
+},
+{
+    "id": 22,
+    "nombre": "Fuente ASUS ROG THOR 1200W 80 Plus Platinum 1200P Full modular",
+    "precio": 74050,
+    "stock": 3,
+    "img": "./img/fuentes/Fuente-ASUS-ROG-THOR-1200W-80-Plus-Platinum-1200P-Full-modular.webp",
+    "categoria": ["fuentes"]
+},
+{
+    "id": 16,
+    "nombre": "Gabinete Be Quiet! PURE BASE 500DX White",
+    "precio": 31310,
+    "stock": 3,
+    "img": "./img/gabinetes/Gabinete-Be-Quiet!-PURE-BASE-500DX-White.webp",
+    "categoria": ["gabinetes"]
+},
+{
+    "id": 7,
+    "nombre": "Placa De Video GEFORCE GTX 1660 SUPER 6GB MSI VENTUS XS OC",
+    "precio": 74000,
+    "stock": 3,
+    "img": "./img/placas-de-video/Placa-De-Video-GEFORCE-GTX-1660-SUPER-6GB-MSI-VENTUS-XS OC.webp",
+    "categoria": ["placasDeVideo"]
+},
+{
+    "id": 18,
+    "nombre": "Gabinete Corsair Crystal 465X RGB iCue Smart Black Mid Tower",
+    "precio": 42950,
+    "stock": 4,
+    "img": "./img/gabinetes/Gabinete-Corsair-Crystal-465X-RGB-iCue-Smart-Black-Mid-Tower.webp",
+    "categoria": ["gabinetes"]
+},
+{
+    "id": 32,
+    "nombre": "Procesador Intel Core i5 9500 9th Gen LGA1151",
+    "precio": 51200,
+    "stock": 3,
+    "img": "./img/procesadores-intel/Procesador-Intel-Core-i5-9500-9th-Gen-LGA1151.webp",
+    "categoria": ["procesadoresIntel"]
+},
+{
+    "id": 29,
+    "nombre": "Procesador AMD Ryzen 5 5500 4.2GHz Turbo",
+    "precio": 32000,
+    "stock": 2,
+    "img": "./img/procesadores-amd/Procesador-AMD-Ryzen-5-5500-4.2GHz-Turbo.webp",
+    "categoria": ["procesadoresAmd"]
+},
+{
+    "id": 21,
+    "nombre": "Fuente ASUS ROG STRIX 750W 80 Plus Gold Full Modular 750G",
+    "precio": 27900,
+    "stock": 3,
+    "img": "./img/fuentes/Fuente-ASUS-ROG-STRIX-750W-80-Plus-Gold-Full-Modular-750G.webp",
+    "categoria": ["fuentes"]
+},
+{
+    "id": 3,
+    "nombre": "Memoria Adata DDR4 8GB 3200MHz XPG Spectrix D60G RGB Titanium",
+    "precio": 11850,
+    "stock": 3,
+    "img": "./img/memorias-ram/Memoria-Adata-DDR4-8GB-3200MHz-XPG-Spectrix-D60G-RGB-Titanium.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 10,
+    "nombre": "Placa De Video GeForce RTX 3090 24Gb Asus Rog Strix Gaming Oc Blanco",
+    "precio": 500000,
+    "stock": 1,
+    "img": "./img/placas-de-video/Placa-De-Video-GeForce-RTX-3090-24Gb-Asus-Ro-Strix-Gaming-Oc-Blanco.webp",
+    "categoria": ["placasDeVideo"]
+},
+{
+    "id": 12,
+    "nombre": "Mother Asrock B450 Steel Legend AM4 RGB Dual M.2 Dual USB 3.1",
+    "precio": 29900,
+    "stock": 3,
+    "img": "./img/mothers/Mother-Asrock-B450Steel-Legend-AM4-RGB-Dual-M.2-Dual-USB-3.1.webp",
+    "categoria": ["mothers"]
+},
+{
+    "id": 4,
+    "nombre": "Memoria Kingston DDR4 8GB 3200MHz Fury Beast RGB",
+    "precio": 11900,
+    "stock": 2,
+    "img": "./img/memorias-ram/Memoria-Kingston-DDR4-8GB-3200MHz-Fury-Beast-RGB.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 11,
+    "nombre": "Mother Asrock X570 Steel Legend AM4 PCIe Gen4",
+    "precio": 43200,
+    "stock": 3,
+    "img": "./img/mothers/Mother-Asrock-X570-Steel-Legend-AM4-PCIe-Gen4.webp",
+    "categoria": ["mothers"]
+},
+{
+    "id": 30,
+    "nombre": "Procesador AMD Ryzen 5 1600 AF Zen+ 12nm AM4",
+    "precio": 31150,
+    "stock": 1,
+    "img": "./img/procesadores-amd/Procesador-AMD-Ryzen-5-1600 AF Zen-AM4.webp",
+    "categoria": ["procesadoresAmd"]
+},
+{
+    "id": 23,
+    "nombre": "Fuente Be Quiet! 700W 80 Plus Bronze U9",
+    "precio": 15290,
+    "stock": 4,
+    "img": "./img/fuentes/Fuente-Be-Quiet!-700W-80-Plus-Bronze-U9.webp",
+    "categoria": ["fuentes"]
+},
+{
+    "id": 8,
+    "nombre": "Placa De Video EVGA Nvidia Geforce RTX 2060 KO Ultra Gaming 6GB GDDR6",
+    "precio": 84000,
+    "stock": 4,
+    "img": "./img/placas-de-video/Placa-De-Video-EVGA-Nvidia-Geforce-RTX-2060 KO-Ultra-Gaming-6GB-GDDR6.webp",
+    "categoria": ["placasDeVideo"]
+},
+
+{
+    "id": 26,
+    "nombre": "Procesador AMD Ryzen 7 5800X 4.7GHz Turbo AM4",
+    "precio": 72000,
+    "stock": 3,
+    "img": "./img/procesadores-amd/Procesador-AMD-Ryzen-7-5800X-4.7GHz-Turbo-AM4.webp",
+    "categoria": ["procesadoresAmd"]
+},
+{
+    "id": 31,
+    "nombre": "Procesador Intel Core i3 10100 4.3GHz Turbo 10th Gen Socket 1200",
+    "precio": 25900,
+    "stock": 3,
+    "img": "./img/procesadores-intel/Procesador-Intel-Core-i3-10100-4.3GHz-Turbo-10th-Gen-Socket-1200.webp",
+    "categoria": ["procesadoresIntel"]
+},
+{
+    "id": 19,
+    "nombre": "Gabinete Lian Li O11 Dynamic XL ROG Certify White ARGB",
+    "precio": 86700,
+    "stock": 2,
+    "img": "./img/gabinetes/Gabinete-Lian-Li-O11-Dynamic-XL-ROG-Certify-White-ARGB.webp",
+    "categoria": ["gabinetes"]
+},
+{
+    "id": 2,
+    "nombre": "Memoria Patriot Viper DDR4 16GB (2x8GB) 3200MHz Steel RGB",
+    "precio": 22650,
+    "stock": 4,
+    "img": "./img/memorias-ram/Memoria-Patriot-Viper-DDR4-16GB-(2x8GB)-3200MHz-Steel-RGB.webp",
+    "categoria": ["memoriasRam"]
+},
+{
+    "id": 13,
+    "nombre": "Mother ASUS ROG STRIX B550-F GAMING AM4 PCI-E 4.0",
+    "precio": 54150,
+    "stock": 4,
+    "img": "./img/mothers/Mother-ASUS-ROG-STRIX-B550-F-GAMING-AM4-PCI-E-4.0.webp",
+    "categoria": ["mothers"]
+},
+{
+    "id": 28,
+    "nombre": "Procesador AMD Ryzen 7 5700G 4.6GHz Turbo",
+    "precio": 65490,
+    "stock": 4,
+    "img": "./img/procesadores-amd/Procesador-AMD-Ryzen-7-5700G-4.6GHz-Turbo.webp",
+    "categoria": ["procesadoresAmd"]
+},
+
+{
+    "id": 35,
+    "nombre": "Procesador Intel Core i9 12900K 5.2GHz Turbo Socket 1700",
+    "precio": 169550,
+    "stock": 1,
+    "img": "./img/procesadores-intel/Procesador-Intel-Core-i9-12900K-5.2GHz-Turbo-Socket-1700.webp",
+    "categoria": ["procesadoresIntel"]
+}]
